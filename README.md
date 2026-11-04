@@ -3,7 +3,7 @@
 《开源软件构建技术》实践项目 2：使用 MkDocs Material 编写四页文档，通过 GitHub Actions 自动构建并发布到 GitHub Pages。
 
 - 作者：hhyt28
-- 网站目标地址：https://hhyt28.github.io/my-docs/ （部署成功后可访问）
+- 网站地址：https://hhyt28.github.io/my-docs/
 - [个人实验报告](report/README.md)
 - [课程作业要求](https://github.com/hunnuOpenSourceSoftware2026/assignments/blob/main/02-github-pages.md)
 
