@@ -1,0 +1,28 @@
+site_name: hyt 的开源实践笔记
+site_description: 从 Markdown 到 GitHub Pages 的自动化文档实践
+site_author: hhyt28
+site_url: https://hhyt28.github.io/my-docs/
+repo_url: https://github.com/hhyt28/my-docs
+theme:
+  name: material
+  language: zh
+  palette:
+    primary: teal
+    accent: amber
+  features:
+    - navigation.tabs
+    - navigation.top
+    - content.code.copy
+nav:
+  - 首页: index.md
+  - 关于: about.md
+  - 使用指南: guide.md
+  - API参考: api.md
+markdown_extensions:
+  - admonition
+  - tables
+  - fenced_code
+  - toc:
+      permalink: true
+extra:
+  generator: false
